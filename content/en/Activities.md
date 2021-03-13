@@ -2,7 +2,7 @@
 title: "Activities (2018-2022)"
 featured_image: '/images/butterfly.JPG'
 date: 2021-03-05T11:25:05-04:00
-description: "Most Highschool Activities "
+description: "Most High School Activities "
 
 ---
 Welcome to a list with some of my activities throughout high school.
