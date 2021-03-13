@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://xenodochial-agnesi-db3052.netlify.app"
 languageCode = "en-us"
 title = "Patrick Ma"
 theme = "ananke"
