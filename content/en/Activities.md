@@ -8,9 +8,9 @@ description: "Most High School Activities "
 Welcome to a list with some of my activities throughout high school.
 
 
-Soccer- I did soccer in 9th grade
+Soccer-  9th grade
 
-Tennis- I did tennis in 10th grade
+Tennis- 10th grade
 
 Swimming- 9th grade, 11th grade, and 12th grade
 
