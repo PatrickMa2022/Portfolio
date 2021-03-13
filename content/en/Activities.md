@@ -1,7 +1,8 @@
 ---
 title: "Activities (2018-2022)"
 featured_image: '/images/butterfly.JPG'
-description: "Activities with the most time spent are listed on the home screen. Scroll below for activities that I have spent less time on. "
+date: 2021-03-05T11:25:05-04:00
+description: "Most Highschool Activities "
 
 ---
 Welcome to a list with some of my activities throughout high school.
