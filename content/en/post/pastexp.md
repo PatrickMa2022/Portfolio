@@ -5,7 +5,7 @@ featured_image: ""
 tags: []
 title: "Past Projects"
 ---
-![Flask App](/images/flaskweb.jpeg)
+![Flask App](/images/flaskweb.jpg)
 Flask Web application
 
 A ball & coin game
