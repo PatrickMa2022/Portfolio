@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "https://www.youtube.com/watch?v=psuRGfAaju4 "
+featured_video: "https://www.youtube.com/watch?v=psuRGfAaju4 "
 omit_header_text: true
 description: We'd love to hear from you
 type: page
