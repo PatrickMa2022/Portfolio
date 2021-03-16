@@ -1,6 +1,6 @@
 ---
 date: 2021-03-08T11:15:58-04:00
-description: "Sports"
+description: "Sports at Jesuit"
 featured_image: "/images/swimming2.jpg"
 tags: []
 title: "Sports"
