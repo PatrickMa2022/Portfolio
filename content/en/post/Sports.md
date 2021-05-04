@@ -10,3 +10,7 @@ Jesuit Swimming and Diving team and Jesuit Debate team.
 Let's be honest; swimming is the best sport in the world. 
 
 Debate is also pretty cool as well.
+
+ALL SWIMMING PHOTO CREDITS GO TO DON CHAMBERLEE.
+Swimming photos:
+
