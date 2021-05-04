@@ -12,5 +12,10 @@ Let's be honest; swimming is the best sport in the world.
 Debate is also pretty cool as well.
 
 ALL SWIMMING PHOTO CREDITS GO TO DON CHAMBERLEE.
+
 Swimming photos:
+
+![Breaststroke](/images/Breast1.png)
+
+![getReady](/images/getReady.png)
 
