@@ -7,15 +7,7 @@ date: 2021-03-01T11:00:59-04:00
 ---
 Welcome to a list with some of my activities throughout high school.
 
+In 9th grade I did soccer and swimming. In 10th grade I did tennis and robotics. In 11th grade I swam again and I did robotics as well as debate. Senior year I will be swimming and doing robotics.
 
-Soccer- I did soccer in 9th grade.
-
-Tennis- I did tennis in 10th grade.
-
-Robotics- I did robotics in 10th grade, 11th grade, and 12th grade.
-
-Debate- I did debate in 11th grade.
-
-Swimming- I did swimming in 9th grade 11th grade, and 12th grade.
 
 That is about it. It is a very short list.
