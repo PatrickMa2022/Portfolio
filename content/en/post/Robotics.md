@@ -5,12 +5,14 @@ featured_image: "/images/iron.jpg"
 tags: []
 title: "Robotics"
 ---
-So let's talk about robotics. In my opinion it is the best club to participate in because you build a robot with metal and big machines. It is not something that you can complete in one day like a lego set. It takes many months of prototyping, testing and modeling. I decided to go into a little more depth here and explain the situation. At this time, I am starting to think about college admissions and where I would like to attend school. 
+So let's talk about robotics. In my opinion, it is the best club to participate in because you build a robot with metal and big machines. It is not something that you can complete in one day like a lego set. It takes many weeks of prototyping, testing, modeling, and long hours. I decided to go into a little more depth here and explain the situation. At this time, I am starting to think about college admissions and where I would like to attend school. There is only one problem I do not know how extracurricular work on the college applications, and I may need to use only one space for robotics instead of two.
+
+My first year doing robotics was in 10th grade and lasted until Covid-19 hit. This experience was incredibly important because it was my introduction to robotics at a much larger stage than a classroom class (although I enjoyed the class very much). We ended up running into a lot of problems during the building season and found different ways to get around these problems. The image at the top of the page shows a homemade iron that we made to iron on the team numbers to our bumpers two days before the tournament. 
+
+My second year was not as chaotic but was a completely different experience. As I said earlier, I might have needed two spaces where you submit activities for robotics because I ended up moving to Dallas, Texas. Unfortunately here in Texas, I am not very likely to compete against my old team in Florida, but the 2020-2021 school year was much harder for robotics. I was attending online school up until the week before Thanksgiving, so I had to meet with robotics virtually and we decided to try to make the 2019-2020 robot for Jesuit better. We ended up designing a completely new robot, so I was able to help even though I was still virtual. The competition ended up being virtual, but next year we are hoping that something does not interfere with our competition.
 
 
 
-Side by side comparison:
-Both teams are fun to participate in, and both coaches are friendly. They both also are somewhat small, so everyone has something to do during the build day.
 
 Its crazy how this image was taken one year ago to date.
 
