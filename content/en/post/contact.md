@@ -1,7 +1,7 @@
 ---
 date: 2021-02-01T11:00:59-04:00
 title: Why SMU?
-featured_image: "images/notebook.jpg"
+featured_image: "images/smu.jpg"
 type: page
 menu: main
 
