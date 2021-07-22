@@ -20,4 +20,4 @@ Its crazy how this image was taken one year ago to date.
 Photo credits: LR
 
 Pictures from 10th and 11th grade robotics:
-[![IMAGE ALT TEXT HERE](/images/jesrobot.png)](https://pma2022.netlify.app/en/post/roboticspics/)
+[![IMAGE ALT TEXT HERE](/images/iron.jpg)](https://pma2022.netlify.app/en/post/roboticspics/)
