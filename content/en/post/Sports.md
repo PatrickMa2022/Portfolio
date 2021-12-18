@@ -5,11 +5,7 @@ featured_image: "/images/swimming2.jpg"
 tags: []
 title: "Sports"
 ---
-Jesuit Swimming and Diving team and Jesuit Debate team. 
-
-Let's be honest; swimming is the best sport in the world. 
-
-Debate is also pretty cool as well.
+Robotics and Engineering Society are tied for the best clubs in high school and swimming is the best sport in the world.
 
 ALL SWIMMING PHOTO CREDITS GO TO DON CHAMBERLEE.
 
