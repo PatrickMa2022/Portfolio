@@ -14,6 +14,6 @@ Here are some pictures from my time at robotics.
 ![2020 Robot](/images/2020robot2.jpeg)
 2020 robot picture #2. (2020 robot)
 
-![Robot Arm](/images/jesrobot.png)
+[![IMAGE ALT TEXT HERE](/images/jesrobot.png)](https://www.youtube.com/watch?v=W-TE0WyhCNI)
 Robot Arm prototype. (2021 robot)
 
