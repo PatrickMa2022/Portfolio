@@ -2,3 +2,7 @@ baseURL = "https://pma2022.netlify.app"
 languageCode = "en-us"
 title = "Patrick Ma"
 theme = "ananke"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/_patrick2022_/"
